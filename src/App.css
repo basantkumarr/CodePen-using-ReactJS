@@ -1,0 +1,15 @@
+.CodeMirror{
+  height: 340px;
+  color: #fff;
+
+}
+
+
+.codeMiror-gutters{
+  background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll{
+  background: #1d1e22 !important;
+
+}
